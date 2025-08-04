@@ -1,4 +1,4 @@
-# LangChain Chatbot with Ollama and Gemma3n
+# LangChain Chatbot with Ollama, Gemma3n and LangSmith
 
 This project is a chatbot built using the LangChain framework. It uses Ollama to run the Gemma3n large language model locally on your system.
 
