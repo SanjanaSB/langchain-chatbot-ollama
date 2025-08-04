@@ -10,3 +10,6 @@ Features include:
 - Modular design for easy customization and extension
 
 Instructions to run the project and install dependencies are provided inside the repository.
+
+<img width="865" height="441" alt="image" src="https://github.com/user-attachments/assets/21c68c11-0f4c-4ea4-8b0a-021d94e93b3a" />
+
